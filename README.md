@@ -27,5 +27,5 @@ A Weather app that a user can use to get the weather of the current day and the 
 8- I can see visibility indicator .\
 9- I can see air pressure number .
 
-### Project Refrence
+### Project Reference
 www.devchallenges.io 
