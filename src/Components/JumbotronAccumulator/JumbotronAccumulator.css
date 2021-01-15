@@ -1,0 +1,22 @@
+.jumbotron-flex{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap : 12%;
+}
+
+.jumbotron-width{
+    flex : 0 0 33%;
+    padding: 2%;
+}
+
+.jumbotron-color{
+    background-color: #1E213A;
+    color : white
+}
+
+
+.unit-span-style{
+    font-family: 'Anton', sans-serif;
+    font-size: 25px;
+}

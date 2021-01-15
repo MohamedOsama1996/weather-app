@@ -1,0 +1,10 @@
+/* img{
+    width: 202px;
+    height: 234px;
+} */
+
+.card-img{
+    display: inline-block;
+
+    margin: 0 auto;
+}

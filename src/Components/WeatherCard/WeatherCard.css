@@ -1,0 +1,20 @@
+.weather-card{
+    background-color: #1E213A;
+    color: white;
+}
+.card-img{
+    display: inline-block;
+
+    margin: 0 auto;
+}
+
+.text-flex{
+    display: flex;
+    justify-content: center;
+    gap: 5%;
+}
+.weathercard-color{
+    background-color: #1E213A;
+   
+}
+

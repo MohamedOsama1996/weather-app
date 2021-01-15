@@ -1,0 +1,21 @@
+.margin-div {
+    margin-top : 15%;
+}
+span{
+    color: white;
+}
+
+.sidebar-font{
+    font-weight: bold;
+    font-size: 20px;
+}
+@media (max-width:540px){
+    .margin-div{
+        margin-top: 7%;
+    }
+}
+@media (min-width:768px) and (max-width:1024px){
+    .margin-div{
+        margin-top: 30%;
+    }
+}
