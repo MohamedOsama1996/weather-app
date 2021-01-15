@@ -17,15 +17,15 @@ A Weather app that a user can use to get the weather of the current day and the 
 
 
 ### Project Features 
-1- I can search for city .\
-2- I can see weather of today and the next 5 days .\
-3- I can see the date and location of the weather .\
-4-I can see according to image for each type of weather .\
-5- I can see the min and max degree each day .\
-6- I can see wind status and wind direction .\
-7- I can see humidity percentage .\
-8- I can see visibility indicator .\
-9- I can see air pressure number .
+1- Search for city .\
+2-  See weather of today and the next 5 days .\
+3-  See the date and location of the weather .\
+4-  See a image for each type of weather .\
+5-  See the min and max degrees each day .\
+6-  See wind status and wind direction .\
+7-  See humidity percentage .\
+8-  See visibility indicator .\
+9-  See air pressure number .
 
 ### Project Reference
 www.devchallenges.io 
