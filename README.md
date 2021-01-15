@@ -16,13 +16,16 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 A Weather app that a user can use to get the weather of the current day and the next days based on the city .
 
 
-### project Features 
-1- I can search for city .
-2- I can see weather of today and the next 5 days .
-3- I can see the date and location of the weather .
-4-I can see according to image for each type of weather .
-5- I can see the min and max degree each day .
-6- I can see wind status and wind direction .
-7- I can see humidity percentage .
-8- I can see visibility indicator .
+### Project Features 
+1- I can search for city .\
+2- I can see weather of today and the next 5 days .\
+3- I can see the date and location of the weather .\
+4-I can see according to image for each type of weather .\
+5- I can see the min and max degree each day .\
+6- I can see wind status and wind direction .\
+7- I can see humidity percentage .\
+8- I can see visibility indicator .\
 9- I can see air pressure number .
+
+### Project Refrence
+www.devchallenges.io 
